@@ -217,6 +217,14 @@
         "_src_folder_opened": {
             "iconPath": "srcFolderExpanded.svg"
         },
+        // scss/sass folder
+        "_scss_folder_closed": {
+            "iconPath": "scssFolder.svg"
+        },
+        // scss/sass folder Expanded
+        "_scss_folder_opened": {
+            "iconPath": "scssFolderExpanded.svg"
+        },
         // .nuxt
         "_nuxt_folder_closed": {
             "iconPath": "nuxtFolder.svg"
@@ -403,6 +411,8 @@
         ".svelte-kit": "_svelte_kit_folder_closed",
         "node_modules": "_node_modules_folder_closed",
         "src": "_src_folder_closed",
+        "scss": "_scss_folder_closed",
+        "sass": "_scss_folder_closed",
         ".nuxt": "_nuxt_folder_closed",
         "docs": "_docs_folder_closed",
         "include": "_include_folder_closed",
@@ -415,6 +425,8 @@
         ".svelte-kit": "_svelte_kit_folder_opened",
         "node_modules": "_node_modules_folder_opened",
         "src": "_src_folder_opened",
+        "scss": "_scss_folder_opened",
+        "sass": "_scss_folder_opened",
         ".nuxt": "_nuxt_folder_opened",
         "docs": "_docs_folder_opened",
         "include": "_include_folder_opened",
