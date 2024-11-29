@@ -1,12 +1,12 @@
 {
-	"name": "wobbly-icon-theme",
+	"name": "better-wobbly-icon-theme",
 	"displayName": "%displayName%",
 	"description": "%description%",
 	"categories": [
 		"Themes"
 	],
 	"version": "1.4.7",
-	"publisher": "breabcrumb",
+	"publisher": "beeb5k",
 	"icon": "logos/logo.png",
 	"license": "MIT",
 	"engines": {
@@ -14,13 +14,13 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/BreadcrumbIsTaken/wobbly-icon-theme"
+		"url": "https://github.com/beeb5k/better-wobbly-icon-theme"
 	},
 	"contributes": {
 		"iconThemes": [
 			{
-				"id": "wobbly-icon-theme",
-				"label": "Wobbly Icon Theme",
+				"id": "better-wobbly-icon-theme",
+				"label": "Better Wobbly Icon Theme",
 				"path": "./icons/wobbly-icon-theme.json"
 			}
 		]
