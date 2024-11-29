@@ -68,6 +68,10 @@
         "_css": {
             "iconPath": "css.svg"
         },
+        // .scss
+        "_scss": {
+            "iconPath": "scss.svg"
+        },
         // package.json package-lock.json
         "_nodejs": {
             "iconPath": "nodejs.svg"
@@ -264,6 +268,8 @@
         "vsix": "_vsix",
         "md": "_markdown",
         "css": "_css",
+        "scss": "_scss",
+        "sass": "_scss",
         "npmignore": "_npm",
         "html": "_html",
         "unity": "_unity",
@@ -327,6 +333,8 @@
         "vsix": "_vsix",
         "md": "_markdown",
         "css": "_css",
+        "scss": "_scss",
+        "sass": "_scss",
         "npmignore": "_npm",
         "html": "_html",
         "unity": "_unity",
