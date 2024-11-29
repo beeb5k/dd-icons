@@ -172,7 +172,7 @@
         },
         // .tsx (uses the same icon as .jsx)
         "_tsx": {
-            "iconPath": "jsx.svg"
+            "iconPath": "tsx.svg"
         },
         // .vue
         "_vue": {
