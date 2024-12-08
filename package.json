@@ -1,11 +1,11 @@
 {
-	"name": "better-wobbly-icon-theme",
+	"name": "dd-icons",
 	"displayName": "%displayName%",
 	"description": "%description%",
 	"categories": [
 		"Themes"
 	],
-	"version": "1.4.7",
+	"version": "1.0.0",
 	"publisher": "beeb5k",
 	"icon": "logos/logo.png",
 	"license": "MIT",
@@ -14,14 +14,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/beeb5k/better-wobbly-icon-theme"
+		"url": "https://github.com/beeb5k/dd-icons"
 	},
 	"contributes": {
 		"iconThemes": [
 			{
-				"id": "better-wobbly-icon-theme",
-				"label": "Better Wobbly Icon Theme",
-				"path": "./icons/wobbly-icon-theme.json"
+				"id": "dd-icons",
+				"label": "DD Icons Theme",
+				"path": "./icons/dd-icon-theme.json"
 			}
 		]
 	}
